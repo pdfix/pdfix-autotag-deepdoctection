@@ -4,6 +4,7 @@ An example of autotagging PDF document with PDFix SDK and the deepdoctection a p
 
 ## Links and resources
 https://huggingface.co/spaces/deepdoctection/deepdoctection
+
 https://pdfix.net
 
 Deepdoctection is only supported on macOS/Linux
@@ -21,7 +22,7 @@ pip install -i https://test.pypi.org/simple/ pdfix-sdk-pdfix-support==0.0.10
 
 ### Deepdoctection 
 
-To install deepdoctection follow steps on https://github.com/deepdoctection/deepdoctection
+To install deepdoctection follow the steps on https://github.com/deepdoctection/deepdoctection#installation
 
 
 
